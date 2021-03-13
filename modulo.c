@@ -1,3 +1,15 @@
+/***
+*
+* Universidad Sergio Arboleda
+* Escuela de Ciencias Exactas e Ingeniería
+* Ciencias de la Computación e Inteligencia Artificial
+* Autores: Salazar Lady - Vejarano Luis - Parrado Jessica - Pinilla Michael
+* Correos:  lady.salazar01@correo.usa.edu.co, luis.vejarano01@correo.usa.edu.co, michael.pinilla01@correo.usa.edu.co, jessica.parrado01@correo.usa.edu.co
+* Fecha: MARZO/2021
+*
+* Título: Multiplicación de Matrices Clásica y con Transpuesta
+*
+***/
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
